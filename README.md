@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitishdabral
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, SQL, Power BI, Tableau
+- 🌱 I’m currently learning Python, SQL, Power BI, Tableau, MS Excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nitishdabral@gmail.com
 
